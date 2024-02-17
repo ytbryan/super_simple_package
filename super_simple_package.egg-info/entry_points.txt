@@ -1,0 +1,2 @@
+[console_scripts]
+cli = super_simple_package.cli:app
